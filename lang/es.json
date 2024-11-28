@@ -1,0 +1,7 @@
+{
+  "nova_checklist_field.add_item":"Añadir item",
+  "nova_checklist_field.confirm_text":"¿Seguro que quierre borrar este item?",
+  "nova_checklist_field.delete_item": "Borrar item",
+  "nova_checklist_field.confirm_button_text": "Borrar",
+  "nova_checklist_field.cancel_button_text": "Cancelar"
+}
